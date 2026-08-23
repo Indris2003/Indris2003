@@ -40,4 +40,4 @@ I am a software developer with a strong foundation in building scalable web and 
 ### 📬 Connect with Me
 
 * 💼 **LinkedIn:** [Teuku Indris](https://www.linkedin.com/in/teukuindrisandina)
-* 🌐 **Portfolio:** [Personal Website](https://github.com/Indris2003)
+* 🌐 **Portfolio:** [Personal Website]([https://github.com/Indris2003](https://portofolio-t-indrisandina-one.vercel.app/))
