@@ -1,4 +1,4 @@
-# Hi there, I'm Teuku Indris 👋
+# Hi there, I'm T.Indris Andina 👋
 
 **Informatics Graduate | Software Developer (Web & App Development)**  
 
@@ -31,8 +31,9 @@ I am a software developer with a strong foundation in building scalable web and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Indris2003&show_icons=true&theme=radical" alt="Indris's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indris2003&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Indris2003&show_icons=true&theme=radical" alt="Indris's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indris2003&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Indris2003&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
