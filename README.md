@@ -63,4 +63,4 @@
 ### 📬 Connect with Me
 
 * <a href="https://www.linkedin.com/in/teukuindrisandina" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="20" height="20" alt="LinkedIn" /></a> **LinkedIn:** [Teuku Indris](https://www.linkedin.com/in/teukuindrisandina)
-* <a href="https://portofolio-t-indrisandina-one.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="20" height="20" alt="Portfolio" /></a> **Portfolio:** [Personal Website](https://portofolio-t-indrisandina-one.vercel.app/)
+* <a href="https://teukuindrisandina.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="20" height="20" alt="Portfolio" /></a> **Portfolio:** [Personal Website](https://teukuindrisandina.vercel.app/)
